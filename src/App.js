@@ -102,7 +102,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="bg__2">
+      <div className="bg__2 w-full">
         <div className="w-10/12 mx-auto py-24">
           <div className="w-8/12 mx-auto">
             <h1 className="text-6xl font-bold text-center leading-tight">

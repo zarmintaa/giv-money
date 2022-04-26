@@ -26,3 +26,9 @@ code {
   width: 100%;
   background-size: cover;
 }
+
+.bg__3 {
+  background-image: url("/assets/images/last-frame.png");
+  width: 100%;
+  background-size: cover;
+}
