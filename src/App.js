@@ -168,7 +168,7 @@ function App() {
                 </div>
                 <div className="text-center text-gray-100 text-xl mt-10">
                   <h1 className="inline-block">
-                    <span className="font-bold text-4xl text-white">$0/</span>
+                    <span className="font-bold text-4xl text-white">$49/</span>
                     month
                   </h1>
                 </div>
