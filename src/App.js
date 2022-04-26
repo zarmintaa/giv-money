@@ -70,7 +70,7 @@ function App() {
       <div className="w-10/12 mx-auto py-24">
         <div className="w-9/12 mx-auto">
           <h1 className="text-6xl font-bold text-center leading-tight">
-            We Provide the Easiest Way to
+            We Provide the Easiest Way to{" "}
             <span className="text-blue-500">Manage Your Finances</span>
           </h1>
         </div>
