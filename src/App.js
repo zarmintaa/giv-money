@@ -151,7 +151,7 @@ function App() {
                 </li>
               </ul>
               <div className="text-center mt-16">
-                <button className="rounded-full bg-gray-100 px-16 py-2.5 font-bold text-gray-600">
+                <button className="rounded-full bg-gray-100 px-16 py-2.5 font-bold text-gray-600 hover:bg-gray-200">
                   Choose Free
                 </button>
               </div>
@@ -218,11 +218,11 @@ function App() {
               Faster and Easier Financial Management Starts Here
             </h1>
 
-            <div className="flex gap-10 mt-14 items-center justify-center">
-              <button className="px-8 py-2.5 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600">
+            <div className="flex gap-10 mt-20 items-center justify-center">
+              <button className="px-8 py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600">
                 Contact Us
               </button>
-              <button className="px-8 border-2 border-gray-300 font-semibold rounded-lg py-2.5 hover:bg-gray-200">
+              <button className="px-8 border-2 border-gray-300 font-semibold rounded-lg py-3 hover:bg-gray-200">
                 View Demo
               </button>
             </div>
