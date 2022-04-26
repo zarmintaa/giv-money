@@ -117,10 +117,10 @@ function App() {
               benefits so careful on your decision, its starts from here!
             </p>
           </div>
-          <div id="card" className="mt-36 justify-center flex gap-x-10">
+          <div id="card" className="mt-16 justify-center flex gap-x-10 pb-16">
             <div
               id="card__1"
-              className="rounded-xl w-80 h-[500px] shadow-sm bg-white p-8 mt-4"
+              className="rounded-xl w-80 h-[500px] shadow bg-white p-8 mt-4"
             >
               <div className="text-center  font-semibold text-xl">
                 <h1>Free</h1>
@@ -162,7 +162,7 @@ function App() {
                   Most Popular
                 </span>
               </div>
-              <div className="absolute z-0 top-4 p-8 w-full shadow-sm bg-gradient-to-t from-blue-700 to-blue-600 rounded-xl">
+              <div className="absolute shadow z-0 top-4 p-8 w-full shadow-sm bg-gradient-to-t from-blue-700 to-blue-600 rounded-xl">
                 <div className="text-center text-gray-100 font-medium text-xl">
                   <h1>Professional</h1>
                 </div>
